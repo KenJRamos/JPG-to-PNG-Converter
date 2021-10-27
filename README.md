@@ -11,8 +11,9 @@ Note:
   4. After all that you will have a new folder {whatever name you gave it} containing png files
 
 Examples of how it should look:
-  python3 JPEGtoPNGconverter.py JPEG_files/ PNG_files/
-  
-  python3 JPEGtoPNGconverter.py images/ converted_images/
-  
-  python3 JPEGtoPNGconverter.py random_images/ png_images/
+1.
+    python3 JPEGtoPNGconverter.py JPEG_files/ PNG_files/
+2.
+    python3 JPEGtoPNGconverter.py images/ converted_images/
+2.
+    python3 JPEGtoPNGconverter.py random_images/ png_images/
