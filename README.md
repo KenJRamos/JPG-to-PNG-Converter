@@ -4,6 +4,7 @@ This is my very first project made.
 
 To initialize you must run it on the terminal
     >python3 JPEGtoPNGconverter.py pokedex/ png_converted/
+    
 Note:
     1. You must have the folder of images to convert inside the project 
     2. Each folder must have forwardslash right after and no space ex. "this_folder/"
